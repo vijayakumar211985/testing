@@ -1,4 +1,4 @@
-!pip install sweetviz
+
 import pandas as pd
 df = pd.read_csv('Advertising.csv')
 df.head()
